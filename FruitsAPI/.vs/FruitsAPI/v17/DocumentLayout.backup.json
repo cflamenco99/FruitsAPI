@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos\\Documents\\GitHub\\FruitsAPI\\FruitsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F42BF42D-2248-4CCB-9B18-F451C60535D1}|FruitsAPI.csproj|c:\\users\\carlos\\documents\\github\\fruitsapi\\fruitsapi\\controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F42BF42D-2248-4CCB-9B18-F451C60535D1}|FruitsAPI.csproj|solutionrelative:controllers\\fruitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FruitsController.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos\\Documents\\GitHub\\FruitsAPI\\FruitsAPI\\Controllers\\FruitsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FruitsController.cs",
+              "ToolTip": "C:\\Users\\Carlos\\Documents\\GitHub\\FruitsAPI\\FruitsAPI\\Controllers\\FruitsController.cs",
+              "RelativeToolTip": "Controllers\\FruitsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T22:56:57.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
